@@ -13,7 +13,7 @@ Responsive Design: The game adapts to different screen sizes for a great user ex
 Animations: Enjoy subtle animations for placing markers and highlighting winning moves.
 
 🖥️ Demo
-Check out the live demo of the Tic-Tac-Toe web application here. (Include your GitHub Pages or live demo link here)
+Check out the live demo of the Tic-Tac-Toe web application here. (https://naqeebsalati.github.io/PRODIGY_WD_03/)
 
 
 🏅 Features Breakdown
